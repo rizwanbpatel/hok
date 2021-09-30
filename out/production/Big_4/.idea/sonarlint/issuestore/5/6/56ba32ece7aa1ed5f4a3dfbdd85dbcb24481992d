@@ -1,0 +1,27 @@
+
+‹
+java:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(σ—ιόÿÿÿÿ
+‡
+java:S13191"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(σ—ιόÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ν²°³ϋÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ν²°³ϋÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(•η‹ώÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(•η‹ώÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.( †γϊώÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.( †γϊώÿÿÿÿ
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰³ °όÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Αη
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΙΑις
+k	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(σ—ιόÿÿÿÿ
+k	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Σ®Χύÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Αη
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ΟΜθύÿÿÿÿ
+t
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(«Σ®Χύÿÿÿÿ

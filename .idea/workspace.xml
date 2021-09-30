@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c12a8cd9-2efe-474d-be6b-43e86cfb8711" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1USwF6Li2ZetcLG0r8sS2lSeoiC" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="HMS&#9;PSI&#9;JAVA://com.company.collection.HashMapStress&#10;Hash&#9;RUN_CONFIGURATION&#9;HashMapStress&#10;HashMap&#9;RUN_CONFIGURATION&#9;HashMapStress&#10;Obje&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Object.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="C:/development/TracePointExtraction/trace-extraction/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\codelab\Big_4\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\codelab\Big_4\src\com\company\parser" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company.dynamicprog" />
+      <recent name="com.company.collection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LengthOfShortestCommonSuperSequence">
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.arr.GroupAnagrams" />
+      <module name="Big_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.arr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthOfShortestCommonSuperSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dynamicprog.LengthOfShortestCommonSuperSequence" />
+      <module name="Big_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dynamicprog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongComSubSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dynamicprog.LongComSubSeq" />
+      <module name="Big_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dynamicprog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dynamicprog.LongestCommonSubSeq" />
+      <module name="Big_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dynamicprog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubSequence1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dynamicprog.LongestCommonSubSequence1" />
+      <module name="Big_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dynamicprog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GroupAnagrams" />
+      <item itemvalue="Application.LongestCommonSubSeq" />
+      <item itemvalue="Application.LongestCommonSubSequence1" />
+      <item itemvalue="Application.LongComSubSeq" />
+      <item itemvalue="Application.LengthOfShortestCommonSuperSequence" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LengthOfShortestCommonSuperSequence" />
+        <item itemvalue="Application.LongComSubSeq" />
+        <item itemvalue="Application.LongestCommonSubSequence1" />
+        <item itemvalue="Application.LongestCommonSubSeq" />
+        <item itemvalue="Application.GroupAnagrams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c12a8cd9-2efe-474d-be6b-43e86cfb8711" name="Default" comment="" />
+      <created>1513079281008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513079281008</updated>
+      <workItem from="1576659070325" duration="1877000" />
+      <workItem from="1596168736782" duration="9091000" />
+      <workItem from="1596609662300" duration="1877000" />
+      <workItem from="1596773663803" duration="1644000" />
+      <workItem from="1598424855808" duration="213000" />
+      <workItem from="1598425143305" duration="774000" />
+      <workItem from="1601523304024" duration="1254000" />
+      <workItem from="1605880701682" duration="2543000" />
+      <workItem from="1605931082510" duration="1223000" />
+      <workItem from="1606276206356" duration="3763000" />
+      <workItem from="1606455429179" duration="2144000" />
+      <workItem from="1606725052301" duration="5799000" />
+      <workItem from="1606931046036" duration="9994000" />
+      <workItem from="1607680944990" duration="9992000" />
+      <workItem from="1608539305086" duration="23000" />
+      <workItem from="1609133038886" duration="2114000" />
+      <workItem from="1611254203051" duration="4213000" />
+      <workItem from="1611298015573" duration="6671000" />
+      <workItem from="1612161152660" duration="8836000" />
+      <workItem from="1614240229766" duration="1386000" />
+      <workItem from="1617864517148" duration="1467000" />
+      <workItem from="1618207376346" duration="443000" />
+      <workItem from="1619373688957" duration="2692000" />
+      <workItem from="1619816063803" duration="3463000" />
+      <workItem from="1620144545193" duration="3907000" />
+      <workItem from="1620621373310" duration="5577000" />
+      <workItem from="1621334784925" duration="11000" />
+      <workItem from="1623817504073" duration="17345000" />
+      <workItem from="1624043295163" duration="588000" />
+      <workItem from="1624511845039" duration="1577000" />
+      <workItem from="1624854081367" duration="765000" />
+      <workItem from="1627195783011" duration="2872000" />
+      <workItem from="1627417044116" duration="13327000" />
+      <workItem from="1627617789092" duration="6578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1627418105848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/0.-1080.1842.1080@0.0.1536.824" timestamp="1627418105848" />
+    <state x="722" y="-672" width="398" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1623833957525">
+      <screen x="0" y="-1080" width="1842" height="1080" />
+    </state>
+    <state x="722" y="-672" width="398" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/0.-1080.1842.1080@0.-1080.1842.1080" timestamp="1623833957525" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1624856354416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1842.1080@0.0.1536.824" timestamp="1620621704924" />
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624856354416" />
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom" timestamp="1627587021853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="959" height="746" key="GridCell.Tab.0.bottom/0.0.1536.824/-1080.-835.1002.1920@-1080.-835.1002.1920" timestamp="1627196783266" />
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824/-1080.-835.1002.1920@0.0.1536.824" timestamp="1627273778611" />
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1842.1080@0.0.1536.824" timestamp="1627587021853" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center" timestamp="1627587021853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="959" height="746" key="GridCell.Tab.0.center/0.0.1536.824/-1080.-835.1002.1920@-1080.-835.1002.1920" timestamp="1627196783265" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824/-1080.-835.1002.1920@0.0.1536.824" timestamp="1627273778611" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1842.1080@0.0.1536.824" timestamp="1627587021853" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left" timestamp="1627587021853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="959" height="746" key="GridCell.Tab.0.left/0.0.1536.824/-1080.-835.1002.1920@-1080.-835.1002.1920" timestamp="1627196783265" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824/-1080.-835.1002.1920@0.0.1536.824" timestamp="1627273778611" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1842.1080@0.0.1536.824" timestamp="1627587021853" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right" timestamp="1627587021853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="959" height="746" key="GridCell.Tab.0.right/0.0.1536.824/-1080.-835.1002.1920@-1080.-835.1002.1920" timestamp="1627196783265" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824/-1080.-835.1002.1920@0.0.1536.824" timestamp="1627273778611" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1842.1080@0.0.1536.824" timestamp="1627587021853" />
+    <state x="112" y="-958" width="1619" height="837" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1627619102400">
+      <screen x="0" y="-1080" width="1842" height="1080" />
+    </state>
+    <state x="112" y="-958" width="1619" height="837" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/0.-1080.1842.1080@0.-1080.1842.1080" timestamp="1627619102400" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/0.-1080.1842.1080@0.0.1536.824" timestamp="1627582354175" />
+    <state x="525" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1627417052038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="280" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1842.1080@0.0.1536.824" timestamp="1627417052038" />
+    <state x="821" y="254" width="538" height="484" key="extract.method.dialog" timestamp="1627587010226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="821" y="254" width="538" height="484" key="extract.method.dialog/0.0.1536.824/0.-1080.1842.1080@0.0.1536.824" timestamp="1627587010226" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/EnumDemo.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar!/com/fasterxml/jackson/annotation/JsonCreator.class</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/greedy/AddSubtract.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/greedy/AddSubtract.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/serial/Employee.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Coll.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/arr/NobleInteger.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/HashMap.java</url>
+          <line>626</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/digits/NumberOfDigitsInUniqueNumberSystem.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dynamicprog/CoinFlip.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/collection/HashMapStress.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/arr/LargestUniqueSubString.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/sort/MergeSort.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/arr/StockBuySell.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/arr/StockBuySell.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/arr/RotateArray.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7.11 (C:\Python\Python27\python.exe) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Big_4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

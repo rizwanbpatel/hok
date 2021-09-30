@@ -1,0 +1,13 @@
+
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êþ´°ùÿÿÿÿ8ªÀÕÍæ.
+M
+java:S1144D"+Remove this unused private "lcsubM" method.(×¦®ßøÿÿÿÿ8ªÀÕÍæ.
+k	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êþ´°ùÿÿÿÿ
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8£–ñÍæ.
+Z
+java:S1197E"8Move the array designator from the variable to the type.(Êþ´°ùÿÿÿÿ8ªÀÕÍæ.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èƒäþ
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(©½Õê8‘þíÍæ.
+S
+java:S11973"8Move the array designator from the variable to the type.(Êþ´°ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôûöÜ

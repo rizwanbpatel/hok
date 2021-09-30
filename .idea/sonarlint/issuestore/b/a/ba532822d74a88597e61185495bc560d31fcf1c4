@@ -1,0 +1,16 @@
+
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Y
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬Æ„°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûÖ‡Ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰ö–ì
+>
+java:S1172"(Remove this unused method parameter "i".(†çáÛ
+\
+java:S2142	"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+>
+java:S1148
+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="exception" type="xs:string"/>
+  <xs:element name="metadata">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="modelName"/>
+        <xs:element ref="modelVersion"/>
+        <xs:element ref="projectName"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="modelVersion" type="xs:string"/>
+  <xs:element name="commit">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="status"/>
+        <xs:element ref="exception"/>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="elapsedTimeInSec"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="type">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="ADDED"/>
+        <xs:enumeration value="REMOVED"/>
+        <xs:enumeration value="CHANGED"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+  <xs:element name="modification">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="type"/>
+        <xs:element ref="featureId"/>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="modelType" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="modelName" type="xs:string"/>
+  <xs:element name="operations">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="operation" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="data-exchange-output">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="metadata"/>
+        <xs:element ref="transaction"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="actionMessage" type="xs:string"/>
+  <xs:element name="action">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="actionMessage"/>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="actionType" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="projectName" type="xs:string"/>
+  <xs:element name="operation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="status"/>
+        <xs:element ref="action" maxOccurs="unbounded" minOccurs="0"/>
+        <xs:element ref="modification" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="operationId" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="featureId" type="xs:string"/>
+  <xs:element name="transaction">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="operations"/>
+        <xs:element ref="commit"/>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="transactionId"/>
+      <xs:attribute type="xs:string" name="sequenceId"/>
+      <xs:attribute type="xs:string" name="branchId"/>
+      <xs:attribute type="xs:string" name="createdEdits"/>
+      <xs:attribute type="xs:string" name="failedEdits"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="status">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="OK"/>
+        <xs:enumeration value="FAILURE"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+</xs:schema>

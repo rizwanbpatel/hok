@@ -1,0 +1,18 @@
+
+k	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êþ´°ùÿÿÿÿ
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(©½Õê8‘þíÍæ.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èƒäþ
+S
+java:S1197L"8Move the array designator from the variable to the type.(Êþ´°ùÿÿÿÿ
+M
+java:S1144K"+Remove this unused private "lcsubM" method.(×¦®ßøÿÿÿÿ8ªÀÕÍæ.
+Z
+java:S1197:"8Move the array designator from the variable to the type.(Êþ´°ùÿÿÿÿ8ªÀÕÍæ.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ÿèü
+r	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êþ´°ùÿÿÿÿ8ªÀÕÍæ.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8£–ñÍæ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿ä“»øÿÿÿÿ8ÇôÓ¬¯/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¸€™²8ÇôÓ¬¯/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¶õªçøÿÿÿÿ8ÇôÓ¬¯/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(‡ÿø˜þÿÿÿÿ8ÇôÓ¬¯/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(íÚí—8ÇôÓ¬¯/

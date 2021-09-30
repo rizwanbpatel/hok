@@ -1,0 +1,29 @@
+
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö´„šùÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¢şR
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÍ¹¨üÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕçºÙúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Øûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Øûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Øûÿÿÿÿ
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½º»ªùÿÿÿÿ
+m
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ö´„šùÿÿÿÿ
+S
+java:S1197	"8Move the array designator from the variable to the type.(Ö´„šùÿÿÿÿ
+:
+java:S1659
+"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+>
+java:S1659"#Declare "max_i" on a separate line.(»Øûÿÿÿÿ
+>
+java:S1659"#Declare "max_j" on a separate line.(»Øûÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ÕçºÙúÿÿÿÿ
+o
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(µùŸ¿
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(èÇ –
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(Úç\
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S
+java:S1197@"8Move the array designator from the variable to the type.(½º»ªùÿÿÿÿ

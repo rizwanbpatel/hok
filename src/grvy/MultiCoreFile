@@ -1,0 +1,31 @@
+def uploadToFTPServer(List files) {
+    files.each {
+        // We will just print it out, and sleep for a bit
+        println Thread.currentThread().getName() + ":" + it
+        Thread.sleep(300)
+    }
+}
+// prepareParallelProcessWork returns a closure that will process the files
+def prepareParallelProcessWork(List files) {
+    { ->
+        uploadToFTPServer(files)
+    }
+}
+
+
+// Main processing function
+void process(List files) {
+    int numCores = Runtime.getRuntime().availableProcessors()
+    // Split the files to process into groups (one for each worker)
+    def partitioned = (0..<numCores).collect {
+        i -> files[(i..<files.size()).step(numCores)]
+    }
+    // Then create a Thread for each group
+    def threads = partitioned.collect {
+        group -> Thread.start prepareParallelProcessWork(group)
+    }
+    // And wait for them all to finish
+    threads*.join()
+}
+
+process(1..10)

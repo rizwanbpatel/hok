@@ -1,0 +1,14 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ûİë!8È¦æö.
+W
+java:S2209"5Change this instance-reference to a static reference.(éÏğøÿÿÿÿ8Ÿš÷ö.
+F
+java:S1905")Remove this unnecessary cast to "Parent".(Œ¹’Ì8 ìøö.
+B
+java:S2440"%Remove this instantiation of "Child".(›ıÁî8µ¥ôö.
+R
+java:S2209"5Change this instance-reference to a static reference.(Œ¹’Ì8 ìøö.
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(î’œœ8ğóö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—ÙŒç8ÆÕæö.

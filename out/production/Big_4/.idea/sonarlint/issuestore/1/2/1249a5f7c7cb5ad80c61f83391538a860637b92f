@@ -1,0 +1,11 @@
+
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(²ş¨òúÿÿÿÿ8¼é’Î.
+]	java:S125."<This block of commented-out lines of code should be removed.(Ò‚ ëøÿÿÿÿ8Ù€’Î.
+X	java:S125%"<This block of commented-out lines of code should be removed.(¸¬ü8äê’Î.
+]	java:S125"<This block of commented-out lines of code should be removed.(Ì“õÅıÿÿÿÿ8‰Ñ’Î.
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8¼é’Î.
+g
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(³å…¡ıÿÿÿÿ8¢Ó’Î.
+A
+java:S3010"$Remove this assignment of "counter".(ñ˜Ö©8¼é’Î.

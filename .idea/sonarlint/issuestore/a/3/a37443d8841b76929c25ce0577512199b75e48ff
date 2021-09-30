@@ -1,0 +1,11 @@
+
+E
+java:S1172:"(Remove this unused method parameter "n".(ú…Ï8ÚÍÂı.
+8
+java:S3626>"Remove this redundant jump.(ûÁİ…8¡°‚Âı.
+T	java:S106M"9Replace this use of System.out or System.err by a logger.(ü„ê!8İ•‹Âı.
+9
+java:S16435"Use a StringBuilder instead.(Û½ˆ8ñÑıÁı.
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(—˜ê€üÿÿÿÿ8şÇ‹Âı.
+Z
+java:S1197H"8Move the array designator from the variable to the type.(İÑöãúÿÿÿÿ8îˆÂı.
